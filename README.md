@@ -1,7 +1,7 @@
 <h1 align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">👋 Hey there! I'm <span style="color:#F7941E;">Kirubakaran S</span></h1>
 
 <p align="center">
-  <img src="" width="320" alt="Hardware + Software Professional Animation" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2tlYmc4YW91OGl2eTdoMHpobGI4MWR5cXYzOG5lZDZuZnc0MTRxOCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/u1WhXLjwgcXpHJBMRM/giphy.gif" width="320" alt="Hardware + Software Professional Animation" />
 </p>
 
 <p align="center">
