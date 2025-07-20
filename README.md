@@ -1,7 +1,9 @@
 <h1 align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">👋 Hey there! I'm <span style="color:#F7941E;">Kirubakaran S</span></h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWdkcmw5MjI0cTBiOWltaGI3YXltaXQ2NGZid3FjcWswZ3d3NDhqeiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/XZcwMvQLRf9aXRa3qW/giphy.gif" width="180" alt="Hardware + Software Professional Animation" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExczgwZmMzenMwMGE1MWs0YjNpNDFoeTQ2a2dkZjBuZzM1YWVjb28yZyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/2C6v4QD5d3YOO4YhID/giphy.gif" width="160" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWdkcmw5MjI0cTBiOWltaGI3YXltaXQ2NGZid3FjcWswZ3d3NDhqeiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/elDC4UUuvx7eFoUFUl/giphy.gif" width="160" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWdkcmw5MjI0cTBiOWltaGI3YXltaXQ2NGZid3FjcWswZ3d3NDhqeiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/XZcwMvQLRf9aXRa3qW/giphy.gif" width="160" />
 </p>
 
 <p align="center">
@@ -47,8 +49,6 @@
   <img src="https://img.icons8.com/ios-glyphs/48/github.png" alt="GitHub"/>
 </p>
 
-  
-
 ---
 
 ## 🔍 Interests
@@ -78,6 +78,8 @@
 
 ---
 
+## 📊 GitHub Stats
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=KIRUBAKARANEE27&show_icons=true&theme=tokyonight" />
 </p>
@@ -88,4 +90,12 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KIRUBAKARANEE27&layout=compact&theme=gruvbox" />
+</p>
+
+---
+
+## 🐍 GitHub Contribution Snake
+
+<p align="center">
+  <img src="https://github.com/KIRUBAKARANEE27/KIRUBAKARANEE27/raw/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
 </p>
