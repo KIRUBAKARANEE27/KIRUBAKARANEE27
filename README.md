@@ -81,10 +81,3 @@
 </p>
 
 ---
-
-## 🐍 GitHub Contribution Snake
-
-<!-- You MUST setup GitHub Action for this to work (see instructions below) -->
-<p align="center">
-  <img src="https://github.com/KIRUBAKARANEE27/KIRUBAKARANEE27/blob/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
-</p>
