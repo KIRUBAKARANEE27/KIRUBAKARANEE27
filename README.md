@@ -1,9 +1,9 @@
 <h1 align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">👋 Hey there! I'm <span style="color:#F7941E;">Kirubakaran S</span></h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExczgwZmMzenMwMGE1MWs0YjNpNDFoeTQ2a2dkZjBuZzM1YWVjb28yZyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/2C6v4QD5d3YOO4YhID/giphy.gif" width="160" />
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWdkcmw5MjI0cTBiOWltaGI3YXltaXQ2NGZid3FjcWswZ3d3NDhqeiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/elDC4UUuvx7eFoUFUl/giphy.gif" width="160" />
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWdkcmw5MjI0cTBiOWltaGI3YXltaXQ2NGZid3FjcWswZ3d3NDhqeiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/XZcwMvQLRf9aXRa3qW/giphy.gif" width="160" />
+  <img src="https://media.giphy.com/media/2C6v4QD5d3YOO4YhID/giphy.gif" width="350" height="300" />
+  <img src="https://media.giphy.com/media/elDC4UUuvx7eFoUFUl/giphy.gif" width="350" height="300" />
+  <img src="https://media.giphy.com/media/XZcwMvQLRf9aXRa3qW/giphy.gif" width="195" height="270" />
 </p>
 
 <p align="center">
@@ -96,6 +96,7 @@
 
 ## 🐍 GitHub Contribution Snake
 
+<!-- You MUST setup GitHub Action for this to work (see instructions below) -->
 <p align="center">
-  <img src="https://github.com/KIRUBAKARANEE27/KIRUBAKARANEE27/raw/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
+  <img src="https://github.com/KIRUBAKARANEE27/KIRUBAKARANEE27/blob/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
 </p>
