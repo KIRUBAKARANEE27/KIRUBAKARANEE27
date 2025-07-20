@@ -6,13 +6,13 @@
 
 <p align="center">
   <a href="https://github.com/KIRUBAKARANEE27" target="_blank">
-    <img src="https://img.icons8.com/ios-glyphs/60/github.png" height="460" alt="GitHub" title="GitHub"/>
+    <img src="https://img.icons8.com/fluency/96/github.png" height="60" alt="GitHub" title="GitHub"/>
   </a>&nbsp;
   <a href="https://www.linkedin.com/in/kirubakaran-s-1b9a47257" target="_blank">
-    <img src="https://img.icons8.com/fluency/48/linkedin.png" height="60" alt="LinkedIn" title="LinkedIn"/>
+    <img src="https://img.icons8.com/fluency/96/linkedin.png" height="60" alt="LinkedIn" title="LinkedIn"/>
   </a>&nbsp;
   <a href="mailto:rs6143055@gmail.com">
-    <img src="https://img.icons8.com/color/48/gmail-new.png" height="60" alt="Gmail" title="Email"/>
+    <img src="https://img.icons8.com/fluency/96/gmail.png" height="60" alt="Gmail" title="Email"/>
   </a>
 </p>
 
@@ -47,6 +47,8 @@
   <img src="https://img.icons8.com/ios-glyphs/48/github.png" alt="GitHub"/>
 </p>
 
+  
+
 ---
 
 ## 🔍 Interests
@@ -64,13 +66,13 @@
 
 <p align="center">
   <a href="https://github.com/KIRUBAKARANEE27" target="_blank">
-    <img src="https://img.icons8.com/ios-glyphs/60/github.png" height="40" alt="GitHub"/>
+    <img src="https://img.icons8.com/fluency/48/github.png" height="40" alt="GitHub"/>
   </a>&nbsp;
   <a href="https://www.linkedin.com/in/kirubakaran-s-1b9a47257" target="_blank">
     <img src="https://img.icons8.com/fluency/48/linkedin.png" height="40" alt="LinkedIn"/>
   </a>&nbsp;
   <a href="mailto:rs6143055@gmail.com" target="_blank">
-    <img src="https://img.icons8.com/color/48/gmail--v1.png" height="40" alt="Gmail"/>
+    <img src="https://img.icons8.com/fluency/48/gmail.png" height="40" alt="Gmail"/>
   </a>
 </p>
 
