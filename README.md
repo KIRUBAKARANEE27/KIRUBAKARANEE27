@@ -63,18 +63,6 @@
 
 ## 📬 Let's Connect
 
-<p align="center">
-  <a href="https://github.com/KIRUBAKARANEE27" target="_blank">
-    <img src="https://img.icons8.com/fluency/48/github.png" height="40" alt="GitHub"/>
-  </a>&nbsp;
-  <a href="https://www.linkedin.com/in/kirubakaran-s-1b9a47257" target="_blank">
-    <img src="https://img.icons8.com/fluency/48/linkedin.png" height="40" alt="LinkedIn"/>
-  </a>&nbsp;
-  <a href="mailto:rs6143055@gmail.com" target="_blank">
-    <img src="https://img.icons8.com/fluency/48/gmail.png" height="40" alt="Gmail"/>
-  </a>
-</p>
-
 ---
 
 ## 📊 GitHub Stats
